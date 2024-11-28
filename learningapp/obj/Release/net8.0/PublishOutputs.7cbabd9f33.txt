@@ -1,0 +1,7 @@
+/Users/daniellarsen/temp2/learningapp/bin/Publish/learningapp
+/Users/daniellarsen/temp2/learningapp/bin/Publish/appsettings.Development.json
+/Users/daniellarsen/temp2/learningapp/bin/Publish/appsettings.json
+/Users/daniellarsen/temp2/learningapp/bin/Publish/learningapp.dll
+/Users/daniellarsen/temp2/learningapp/bin/Publish/learningapp.deps.json
+/Users/daniellarsen/temp2/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/daniellarsen/temp2/learningapp/bin/Publish/learningapp.pdb
